@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidApp.iml" filepath="$PROJECT_DIR$/AndroidApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/peshowe-klaviatura.iml" filepath="$PROJECT_DIR$/.idea/modules/peshowe-klaviatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/peshowe-klaviatura.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/peshowe-klaviatura.app.iml" />
     </modules>
   </component>
 </project>
